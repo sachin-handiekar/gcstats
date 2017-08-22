@@ -61,5 +61,7 @@
     <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-jasper:8.5.16" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jdt:ecj:3.12.3" level="project" />
     <orderEntry type="library" name="Maven: javax.servlet:jstl:1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.webjars:jquery:3.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.webjars:bootstrap:3.3.7" level="project" />
   </component>
 </module>

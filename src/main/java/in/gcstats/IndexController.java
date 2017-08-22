@@ -13,9 +13,5 @@ public class IndexController {
         return "index";
     }
 
-
-    @RequestMapping("/index")
-    public String greeting(Model model) {
-        return "index";
-    }
+    
 }
